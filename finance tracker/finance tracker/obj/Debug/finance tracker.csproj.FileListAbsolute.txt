@@ -1,0 +1,6 @@
+C:\Users\L2G1\AppData\Local\Temporary Projects\finance tracker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\L2G1\Documents\Visual Studio 2008\Projects\finance tracker\finance tracker\bin\Debug\finance tracker.exe
+C:\Users\L2G1\Documents\Visual Studio 2008\Projects\finance tracker\finance tracker\bin\Debug\finance tracker.pdb
+C:\Users\L2G1\Documents\Visual Studio 2008\Projects\finance tracker\finance tracker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\L2G1\Documents\Visual Studio 2008\Projects\finance tracker\finance tracker\obj\Debug\finance tracker.exe
+C:\Users\L2G1\Documents\Visual Studio 2008\Projects\finance tracker\finance tracker\obj\Debug\finance tracker.pdb
